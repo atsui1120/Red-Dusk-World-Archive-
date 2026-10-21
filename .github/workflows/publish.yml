@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       publish:
-        description: Publish this reviewed site to https://atsui1120.github.io/
+        description: Publish this reviewed site to https://atsui1120.github.io/Red-Dusk-World-Archive-/
         type: boolean
         required: true
         default: false

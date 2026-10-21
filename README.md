@@ -2,7 +2,7 @@
 
 Public website distribution for the Red Dusk World Archive.
 
-Website: https://atsui1120.github.io/
+Website: https://atsui1120.github.io/Red-Dusk-World-Archive-/
 
 `site/` contains the reviewed static website. This repository does not contain the development workspace or its Git history.
 
@@ -20,4 +20,4 @@ The archive's editing and website implementation do not change those rights or g
 
 ## Report a rights concern
 
-Anyone can report a possible copyright or attribution issue through [GitHub Issues](https://github.com/atsui1120/atsui1120.github.io/issues). Please identify the relevant page or file and describe the concern. On receiving a report of possible infringement, the maintainer will immediately remove the reported material from the public website and current public distribution while reviewing the concern.
+Anyone can report a possible copyright or attribution issue through [GitHub Issues](https://github.com/atsui1120/Red-Dusk-World-Archive-/issues). Please identify the relevant page or file and describe the concern. On receiving a report of possible infringement, the maintainer will immediately remove the reported material from the public website and current public distribution while reviewing the concern.
